@@ -30,7 +30,7 @@ export default function Task({
           readOnly={true}
           name="title"
           placeholder="Input title"
-          style={{ background: "yellow" }}
+          style={{ background: "red" }}
         />
       </label>
 
